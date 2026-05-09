@@ -60,8 +60,8 @@ A URL shortening application for creating short, shareable links.
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com]
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/praveen-m-19509932a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3gEiqBbyQDy9M%2B8cG8pEcA%3D%3D)
+- **Email:** [mailto:praveen66667777@gmail.com]
 - **Portfolio:** [Your Portfolio Website]
 
 ## 📈 Current Focus
