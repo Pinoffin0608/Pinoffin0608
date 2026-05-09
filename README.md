@@ -1,45 +1,56 @@
 # 👋 Hi, I'm Pinoffin0608
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building meaningful projects and continuously improving my coding skills.
+Welcome to my GitHub profile! I'm a passionate full-stack developer focused on building meaningful projects and continuously improving my coding skills. I specialize in backend development, database management, and creating intuitive user interfaces.
 
 ## 🚀 About Me
 
-- 💻 Full-stack developer with a passion for clean code and best practices
+- 💻 Full-stack developer with expertise in Python, MySQL, and modern web technologies
 - 🌱 Always learning new technologies and frameworks
-- 🎯 Focused on creating impactful solutions
-- 📍 Based in [Your Location]
+- 🎯 Focused on creating impactful solutions for real-world problems
+- 📍 Building projects that help freelancers and developers manage their work
 
 ## 💡 Skills & Technologies
 
 **Languages:**
-- JavaScript / TypeScript
 - Python
+- JavaScript / TypeScript
 - HTML & CSS
-- [Add your languages]
+- SQL
 
 **Frameworks & Tools:**
-- React / Vue / Angular
-- Node.js / Express
-- [Your other tech stacks]
+- MySQL
+- Rich (Terminal UI)
+- Flask / FastAPI
 - Git & GitHub
-- [Other tools you use]
+- Terminal-based UI Development
 
 **Specializations:**
-- Web Development
-- [Your specialty]
+- Backend Development
+- Database Design & Management
+- Terminal UI Applications
+- Project Management Systems
 - Problem Solving
-- [Your focus area]
 
 ## 📂 Featured Projects
 
-### 🔹 [Project Name 1](https://github.com/Pinoffin0608/project-name-1)
-Brief description of what this project does and the technologies used.
+### 🔹 [EditVault](https://github.com/Pinoffin0608/edit_vault)
+A professional terminal-based freelance project management system built with **Python, MySQL, and Rich UI**. EditVault helps freelancers, agencies, and developers efficiently manage clients, projects, payments, deadlines, and earnings with a modern interactive terminal interface.
 
-### 🔹 [Project Name 2](https://github.com/Pinoffin0608/project-name-2)
-Brief description of what this project does and the technologies used.
+**Key Features:**
+- 🔐 Secure authentication system with password protection
+- 👥 Complete client management (add, view, search, update, delete)
+- 📋 Project management with deadline tracking and status updates
+- 💰 Payment tracking (completed/pending/overdue)
+- 📊 Smart earnings & project dashboards with analytics
+- ⚠️ Auto alert system for overdue deadlines
+- 🎨 Professional terminal UI with tables, panels, and colored statuses
 
-### 🔹 [Project Name 3](https://github.com/Pinoffin0608/project-name-3)
-Brief description of what this project does and the technologies used.
+**Tech Stack:** Python 3, MySQL, Rich, Readchar
+
+### 🔹 [URL Shortener](https://github.com/Pinoffin0608/url-shortener)
+A URL shortening application for creating short, shareable links.
+
+**Tech Stack:** JavaScript, Node.js
 
 ## 📊 GitHub Stats
 
@@ -47,35 +58,33 @@ Brief description of what this project does and the technologies used.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pinoffin0608&layout=compact&theme=dark)
 
-## 🎓 Education & Certifications
-
-- **[Degree/Certification Name]** - [Institution/Platform] (Year)
-- **[Degree/Certification Name]** - [Institution/Platform] (Year)
-
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn URL](https://linkedin.com/in/your-profile)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 - **Email:** [your.email@example.com]
 - **Portfolio:** [Your Portfolio Website]
-- **Twitter:** [@YourHandle](https://twitter.com/yourhandle)
 
 ## 📈 Current Focus
 
-- 🔨 Working on [describe current projects]
-- 📚 Learning [technologies you're currently learning]
+- 🔨 Developing advanced project management tools
+- 📚 Learning modern web frameworks and cloud technologies
 - 🤝 Open to collaborations and contributions
-- 💬 Ask me about [your expertise]
+- 💬 Ask me about Python, MySQL, and terminal UI development
 
 ## 🏆 Achievements
 
-- ⭐ [Notable contribution or achievement]
-- 🎖️ [Notable contribution or achievement]
-- 🏅 [Notable contribution or achievement]
+- ⭐ Built EditVault - a comprehensive freelance management system
+- 🎖️ Created multiple full-stack projects with modern technologies
+- 🏅 Focused on clean code and best practices
 
 ---
 
-### ✨ Fun Fact
-[Add something interesting about yourself - your hobbies, interests, or coding philosophy]
+### ✨ Key Highlights
+
+- **Problem Solver:** Converting complex requirements into elegant solutions
+- **Full-Stack Developer:** From database design to intuitive UI development
+- **Continuous Learner:** Always exploring new technologies and methodologies
+- **Code Quality:** Passionate about writing clean, maintainable code
 
 ---
 
